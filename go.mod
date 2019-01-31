@@ -1,1 +1,1 @@
-module github.com/heck-go/pathtree
+module pathtree
